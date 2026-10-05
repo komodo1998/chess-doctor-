@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="mTitle">
+  <title id="mTitle">Chess Doctor mascot — a checkered board character in a doctor's coat with stethoscope and clipboard</title>
+  <defs>
+    <clipPath id="boardClip">
+      <rect x="166" y="52" width="180" height="204" rx="16"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(0 30)">
+    <!-- ground shadow -->
+    <ellipse cx="256" cy="366" rx="105" ry="11" fill="#17181a" opacity="0.15"/>
+
+    <!-- legs -->
+    <rect x="226" y="250" width="19" height="102" rx="6" fill="#17181a"/>
+    <rect x="267" y="250" width="19" height="102" rx="6" fill="#17181a"/>
+
+    <!-- shoes: dark boots, orange soles -->
+    <path d="M 248 356 L 248 342 Q 248 330 236 330 L 210 330 Q 186 330 182 346 Q 180 356 192 356 Z" fill="#3d434c" stroke="#17181a" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="178" y="350" width="72" height="13" rx="6.5" fill="#e28b3b" stroke="#17181a" stroke-width="3"/>
+    <path d="M 264 356 L 264 342 Q 264 330 276 330 L 302 330 Q 326 330 330 346 Q 332 356 320 356 Z" fill="#3d434c" stroke="#17181a" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="262" y="350" width="72" height="13" rx="6.5" fill="#e28b3b" stroke="#17181a" stroke-width="3"/>
+
+    <!-- waving arm (character's right) -->
+    <path d="M 148 198 C 122 190, 104 168, 100 146" fill="none" stroke="#17181a" stroke-width="11" stroke-linecap="round"/>
+    <g stroke-linecap="round">
+      <path d="M 80 108 L 70 90" stroke="#17181a" stroke-width="16"/>
+      <path d="M 94 104 L 92 84" stroke="#17181a" stroke-width="16"/>
+      <path d="M 108 106 L 116 88" stroke="#17181a" stroke-width="16"/>
+      <path d="M 110 130 L 126 124" stroke="#17181a" stroke-width="16"/>
+      <path d="M 80 108 L 70 90" stroke="#ffffff" stroke-width="9"/>
+      <path d="M 94 104 L 92 84" stroke="#ffffff" stroke-width="9"/>
+      <path d="M 108 106 L 116 88" stroke="#ffffff" stroke-width="9"/>
+      <path d="M 110 130 L 126 124" stroke="#ffffff" stroke-width="9"/>
+    </g>
+    <ellipse cx="92" cy="122" rx="21" ry="17" fill="#ffffff" stroke="#17181a" stroke-width="5" transform="rotate(-12 92 122)"/>
+
+    <!-- right arm to clipboard -->
+    <path d="M 362 198 C 378 206, 388 226, 388 244" fill="none" stroke="#17181a" stroke-width="11" stroke-linecap="round"/>
+
+    <!-- board body -->
+    <rect x="166" y="52" width="180" height="204" rx="16" fill="#ffffff" stroke="#17181a" stroke-width="6"/>
+    <g clip-path="url(#boardClip)" fill="#6d6673">
+      <rect x="166" y="52" width="30" height="34"/>
+      <rect x="226" y="52" width="30" height="34"/>
+      <rect x="286" y="52" width="30" height="34"/>
+      <rect x="196" y="86" width="30" height="34"/>
+      <rect x="256" y="86" width="30" height="34"/>
+      <rect x="316" y="86" width="30" height="34"/>
+      <rect x="166" y="120" width="30" height="34"/>
+      <rect x="226" y="120" width="30" height="34"/>
+      <rect x="286" y="120" width="30" height="34"/>
+      <rect x="196" y="154" width="30" height="34"/>
+      <rect x="256" y="154" width="30" height="34"/>
+      <rect x="316" y="154" width="30" height="34"/>
+      <rect x="166" y="188" width="30" height="34"/>
+      <rect x="226" y="188" width="30" height="34"/>
+      <rect x="286" y="188" width="30" height="34"/>
+      <rect x="196" y="222" width="30" height="34"/>
+      <rect x="256" y="222" width="30" height="34"/>
+      <rect x="316" y="222" width="30" height="34"/>
+    </g>
+
+    <!-- face -->
+    <g fill="none" stroke-linecap="round">
+      <path d="M 204 102 Q 226 88 248 100" stroke="#ffffff" stroke-width="11"/>
+      <path d="M 264 100 Q 286 88 308 102" stroke="#ffffff" stroke-width="11"/>
+      <path d="M 204 102 Q 226 88 248 100" stroke="#17181a" stroke-width="7"/>
+      <path d="M 264 100 Q 286 88 308 102" stroke="#17181a" stroke-width="7"/>
+      <path d="M 243 163 Q 256 174 269 163" stroke="#ffffff" stroke-width="10"/>
+      <path d="M 243 163 Q 256 174 269 163" stroke="#17181a" stroke-width="6"/>
+    </g>
+    <ellipse cx="224" cy="126" rx="16" ry="21" fill="#ffffff" stroke="#17181a" stroke-width="5"/>
+    <ellipse cx="288" cy="126" rx="16" ry="21" fill="#ffffff" stroke="#17181a" stroke-width="5"/>
+    <circle cx="227" cy="132" r="7" fill="#17181a"/>
+    <circle cx="285" cy="132" r="7" fill="#17181a"/>
+    <circle cx="230" cy="129" r="2.4" fill="#ffffff"/>
+    <circle cx="288" cy="129" r="2.4" fill="#ffffff"/>
+
+    <!-- doctor coat -->
+    <path d="M 222 160 C 192 160, 156 170, 136 192 C 118 220, 110 266, 112 314 C 113 327, 121 334, 133 334 L 194 334 C 204 334, 209 327, 207 317 C 213 264, 218 208, 222 160 Z" fill="#ffffff" stroke="#17181a" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M 290 160 C 320 160, 356 170, 376 192 C 394 220, 402 266, 400 314 C 399 327, 391 334, 379 334 L 318 334 C 308 334, 303 327, 305 317 C 299 264, 294 208, 290 160 Z" fill="#ffffff" stroke="#17181a" stroke-width="6" stroke-linejoin="round"/>
+    <rect x="136" y="272" width="36" height="32" rx="5" fill="#ffffff" stroke="#17181a" stroke-width="4"/>
+    <rect x="340" y="272" width="36" height="32" rx="5" fill="#ffffff" stroke="#17181a" stroke-width="4"/>
+
+    <!-- stethoscope -->
+    <path d="M 218 172 C 194 188, 178 216, 180 244" fill="none" stroke="#17181a" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="218" cy="172" r="4.5" fill="#17181a"/>
+    <circle cx="181" cy="258" r="13" fill="#17181a"/>
+    <circle cx="181" cy="258" r="6.5" fill="#8b93a5"/>
+
+    <!-- clipboard in gloved hand -->
+    <g transform="translate(418 274) rotate(10)">
+      <rect x="-33" y="-44" width="66" height="88" rx="9" fill="#3d434c" stroke="#17181a" stroke-width="5"/>
+      <rect x="-24" y="-32" width="48" height="68" rx="3" fill="#ffffff" stroke="#17181a" stroke-width="3"/>
+      <rect x="-13" y="-52" width="26" height="15" rx="6" fill="#17181a"/>
+      <circle cx="0" cy="-44.5" r="3" fill="#dfe4ee"/>
+      <circle cx="-34" cy="-14" r="13" fill="#ffffff" stroke="#17181a" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,125 @@
+[Event "Sample - Opera House"]
+[Site "Paris FRA"]
+[Date "1858.10.21"]
+[White "Duke of Brunswick"]
+[Black "Alex"]
+[Result "1-0"]
+[WhiteElo "1800"]
+[BlackElo "1650"]
+[TimeControl "-"]
+[ECO "C41"]
+[Opening "Philidor Defence"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 Qe7 8. Nc3 c6 9. Bg5 b5 10. Nxb5 cxb5 11. Bxb5+ Nbd7 12. O-O-O Rd8 13. Rxd7 Rxd7 14. Rd1 Qe6 15. Bxd7+ Nxd7 16. Qb8+ Nxb8 17. Rd8# 1-0
+
+[Event "Sample - Vienna Trap"]
+[Site "Vienna AUT"]
+[Date "1910.01.01"]
+[White "Richard Reti"]
+[Black "Alex"]
+[Result "1-0"]
+[WhiteElo "1900"]
+[BlackElo "1650"]
+[TimeControl "-"]
+[ECO "B15"]
+[Opening "Caro-Kann Defence"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qd3 e5 6. dxe5 Qa5+ 7. Bd2 Qxe5 8. O-O-O Nxe4 9. Qd8+ Kxd8 10. Bg5+ Kc7 11. Bd8# 1-0
+
+[Event "Sample - Sunday Scholar"]
+[Site "Local club"]
+[Date "2025.09.14"]
+[White "Alex"]
+[Black "Chris"]
+[Result "1-0"]
+[WhiteElo "1520"]
+[BlackElo "1490"]
+[TimeControl "600+0"]
+[ECO "C47"]
+[Opening "Four Knights"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 Nf6 4. Qxf7# 1-0
+
+[Event "Sample - Blitz night"]
+[Site "Online"]
+[Date "2025.09.20"]
+[White "Alex"]
+[Black "Ben"]
+[Result "1-0"]
+[WhiteElo "1520"]
+[BlackElo "1510"]
+[TimeControl "300+2"]
+[ECO "C41"]
+[Opening "Philidor Defence"]
+
+1. e4 { [%clk 0:03:01] } e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:00] } d6 { [%clk 0:03:00] } 3. Bc4 { [%clk 0:02:59] } Bg4 { [%clk 0:02:58] } 4. Nc3 { [%clk 0:02:58] } g6 { [%clk 0:02:52] } 5. Nxe5 { [%clk 0:02:55] } Bxd1 { [%clk 0:02:40] } 6. Bxf7+ { [%clk 0:02:56] } Ke7 { [%clk 0:02:38] } 7. Nd5# { [%clk 0:02:57] } 1-0
+
+[Event "Sample - Trap avoided?"]
+[Site "Online"]
+[Date "2025.09.27"]
+[White "Claire"]
+[Black "Alex"]
+[Result "0-1"]
+[WhiteElo "1500"]
+[BlackElo "1515"]
+[TimeControl "300+2"]
+[ECO "C44"]
+[Opening "King's Knight Opening"]
+
+1. e4 { [%clk 0:03:01] } e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:00] } Nc6 { [%clk 0:03:00] } 3. Bc4 { [%clk 0:02:59] } Nd4 { [%clk 0:02:58] } 4. Nxe5 { [%clk 0:02:40] } Qg5 { [%clk 0:02:50] } 5. Nxf7 { [%clk 0:02:20] } Qxg2 { [%clk 0:02:45] } 6. Rf1 { [%clk 0:02:05] } Qxe4+ { [%clk 0:02:44] } 7. Be2 { [%clk 0:01:58] } Nf3# { [%clk 0:02:46] } 0-1
+
+[Event "Sample - Greed punished"]
+[Site "Berlin GER"]
+[Date "1851.07.21"]
+[White "Adolf Anderssen"]
+[Black "Alex"]
+[Result "1-0"]
+[WhiteElo "1850"]
+[BlackElo "1650"]
+[TimeControl "-"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 b5 5. Bxb5 Nf6 6. Nf3 Qh6 7. d3 Nh5 8. Nh4 Qg5 9. Nf5 c6 10. g4 Nf6 11. Rg1 cxb5 12. h4 Qg6 13. h5 Qg5 14. Qf3 Ng8 15. Bxf4 Qf6 16. Nc3 Bc5 17. Nd5 Qxb2 18. Bd6 Bxg1 19. e5 Qxa1+ 20. Ke2 Na6 21. Nxg7+ Kd8 22. Qf6+ Nxf6 23. Be7# 1-0
+
+[Event "Sample - One pawn too slow"]
+[Site "Local club"]
+[Date "2025.10.04"]
+[White "Alex"]
+[Black "Frank"]
+[Result "0-1"]
+[WhiteElo "1515"]
+[BlackElo "1530"]
+[TimeControl "900+0"]
+[ECO "C50"]
+[Opening "Italian Game"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 O-O 7. O-O d5 8. Re1 dxc4 9. Nxc6 bxc6 10. e5 Nd5 11. Nxd5 cxd5 12. Qg4 Bxg4 13. h3 Bh5 14. Kh1 Rb8 15. Re3 Qd7 0-1
+
+[Event "Sample - Budapest trap"]
+[Site "Local club"]
+[Date "2025.10.11"]
+[White "Alex"]
+[Black "Irene"]
+[Result "0-1"]
+[WhiteElo "1512"]
+[BlackElo "1498"]
+[TimeControl "900+0"]
+[ECO "A51"]
+[Opening "Budapest Gambit"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nbd2 Qe7 7. a3 Ngxe5 8. axb4 Nd3# 0-1
+
+[Event "Sample - Blitz, too fast"]
+[Site "Online"]
+[Date "2025.10.18"]
+[White "Alex"]
+[Black "Nina"]
+[Result "0-1"]
+[WhiteElo "1518"]
+[BlackElo "1520"]
+[TimeControl "180+0"]
+[ECO "C44"]
+[Opening "King's Knight Opening"]
+
+1. e4 { [%clk 0:03:00] } e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:59] } Nc6 { [%clk 0:02:59] } 3. Bc4 { [%clk 0:02:55] } Nd4 { [%clk 0:02:50] } 4. Nxe5 { [%clk 0:02:40] } Qg5 { [%clk 0:02:45] } 5. Nxf7 { [%clk 0:02:32] } Qxg2 { [%clk 0:02:44] } 6. Rf1 { [%clk 0:02:24] } Qxe4+ { [%clk 0:02:43] } 7. Be2 { [%clk 0:02:20] } Nf3# { [%clk 0:02:42] } 0-1

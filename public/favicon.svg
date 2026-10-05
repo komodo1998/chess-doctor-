@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="fTitle">
+  <title id="fTitle">Chess Doctor</title>
+  <defs>
+    <clipPath id="fBoard">
+      <rect x="5" y="3" width="54" height="54" rx="13"/>
+    </clipPath>
+  </defs>
+  <!-- board -->
+  <rect x="5" y="3" width="54" height="54" rx="13" fill="#ffffff" stroke="#17181a" stroke-width="4"/>
+  <g clip-path="url(#fBoard)" fill="#6d6673">
+    <rect x="5" y="3" width="13.5" height="13.5"/>
+    <rect x="32" y="3" width="13.5" height="13.5"/>
+    <rect x="18.5" y="16.5" width="13.5" height="13.5"/>
+    <rect x="45.5" y="16.5" width="13.5" height="13.5"/>
+    <rect x="5" y="30" width="13.5" height="13.5"/>
+    <rect x="32" y="30" width="13.5" height="13.5"/>
+    <rect x="18.5" y="43.5" width="13.5" height="13.5"/>
+    <rect x="45.5" y="43.5" width="13.5" height="13.5"/>
+  </g>
+  <!-- brows -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M 14 13.5 Q 22 9 29 13" stroke="#ffffff" stroke-width="6"/>
+    <path d="M 35 13 Q 42 9 50 13.5" stroke="#ffffff" stroke-width="6"/>
+    <path d="M 14 13.5 Q 22 9 29 13" stroke="#17181a" stroke-width="3.2"/>
+    <path d="M 35 13 Q 42 9 50 13.5" stroke="#17181a" stroke-width="3.2"/>
+  </g>
+  <!-- eyes -->
+  <ellipse cx="22.5" cy="27" rx="6" ry="8.5" fill="#ffffff" stroke="#17181a" stroke-width="2.8"/>
+  <ellipse cx="41.5" cy="27" rx="6" ry="8.5" fill="#ffffff" stroke="#17181a" stroke-width="2.8"/>
+  <circle cx="23.5" cy="28.5" r="2.8" fill="#17181a"/>
+  <circle cx="40.5" cy="28.5" r="2.8" fill="#17181a"/>
+  <!-- smile -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M 26.5 39.5 Q 32 44.5 37.5 39.5" stroke="#ffffff" stroke-width="5.5"/>
+    <path d="M 26.5 39.5 Q 32 44.5 37.5 39.5" stroke="#17181a" stroke-width="3"/>
+  </g>
+  <!-- coat with lapels and stethoscope chest piece -->
+  <g clip-path="url(#fBoard)">
+    <path d="M 7 49 Q 32 44 57 49 L 57 57 L 7 57 Z" fill="#ffffff"/>
+    <path d="M 32 48 L 24.5 57" fill="none" stroke="#17181a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 32 48 L 39.5 57" fill="none" stroke="#17181a" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <path d="M 7 49 Q 32 44 57 49" fill="none" stroke="#17181a" stroke-width="3" stroke-linecap="round"/>
+  <rect x="5" y="3" width="54" height="54" rx="13" fill="none" stroke="#17181a" stroke-width="4"/>
+</svg>
